@@ -83,4 +83,6 @@ def update(n):
     return info, fig, html.Span(alert, style={'color': color})
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    import os
+    port = int(os.environ.get('PORT', 8050))   
+    app.run_server(host='0.0.0.0', port=port, debug=False)
