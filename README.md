@@ -7,7 +7,7 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-FF8C00?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai)
 
 ## Demo Ao Vivo
-[https://turbofan-predictive.onrender.com](https://turbofan-predictive.onrender.com) *(deploy grátis no Render)*
+https://dashboard.render.com/web/srv-d452ntre5dus73fg3d50 *(deploy grátis no Render)*
 
 ## Resultados
 - **RMSE**: `18.2` ciclos
